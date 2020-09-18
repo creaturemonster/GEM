@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<head>
+		<title>Big Idea</title>
+		<link rel="stylesheet" href="homeStyle.css" />
+	</head>
+	<body>
+		<div class='wrapper'>
+			<header class="site-header">
+				<a href="http://raw.rutgers.edu/" class="site-logo">
+					<img class='site-logo-image' src='images/site-logo.svg' alt='RAW'>
+				</a>
+				<nav role='navigation'>
+					<ul class="sitenav">
+						<li><a class="current-page" href="ewp-grid.htm">Grid</a></li>
+						<li><a href="ewp-slideshow.htm">Slideshow</a></li>
+						<li><a href="ewp-interactive.htm">Interactive</a></li>
+						<li><a href="ewp-map.htm">Map</a></li>
+						<li><a href="ewp-about.htm">About</a></li>
+					</ul> 
+				</nav>
+			</header>
+			<main role='main'>
+			<header class="page-header">
+
+				<h1>Main Heading for This Page</h1>
+
+					<img src="images/grid-lead.jpg" alt="Lead image for grid page">
+
+					<p class="page-abstract">Two sentence introduction to the page</p>
+
+					<ul class="subnav">
+						<li><a href="#grid-intro">How We Got There</a></li>
+						<li><a href="#grid-gallery">What We Saw</a></li>
+						<li><a href="#grid-objects">What We Found</a></li>
+					</ul>
+			</header> 
+			<section id="grid-intro">
+
+<h2>How We Got There</h2>
+
+<!-- some paragraphs -->
+
+
+</section>
+
+
+<section id="grid-gallery">
+
+<h2>Seven Locations We Visited</h2>
+
+<h3>Location Views</h3>
+
+<!-- nine figures will go here -->
+
+<figure>
+	<img src="images/ewp-location-1-264.jpg" alt="First location">
+	<figcaption>Name of Location</figcaption>
+</figure>	
+
+<figure>
+	<img src="images/ewp-location-2-264.jpg" alt="Second location (exterior)">
+	<figcaption>Name of Location</figcaption>
+</figure>	
+
+<figure>
+	<img src="images/ewp-location-3-264.jpg" alt="Second location (interior)">
+	<figcaption>Name of Location</figcaption>
+</figure>	
+
+<!-- etc. -->
+
+
+<h3>Location Data</h3>
+<table>
+<tr><th>Object</th><th>Color</th><th>Weight</th><th>Size</th><th>Use</th></tr>
+<tr><td>Mug</td><td>Cream</td><td>350g</td><td>One hand</td><td>Drinking</td></tr>
+<tr><td>Highlighter</td><td>Blue</td><td>2g</td><td>One finger</td><td>Outlining</td></tr>
+<tr><td>Waterbottle</td><td>Transparent</td><td>3g</td><td>Two hands</td><td>Hydrating</td></tr>
+<tr><td>Earphones</td><td>Black</td><td>4g</td><td>Small</td><td>Listening</td></tr>
+<tr><td>Sharpie</td><td>Black</td><td>2g</td><td>One finger</td><td>Coloring</td></tr>
+</table>
+
+
+</section>
+
+
+<section id="grid-objects">
+
+<h2>What We Found</h2>
+
+<!-- a possible second gallery -->
+
+
+
+</section>
+
+
+<!-- main page content ends -->
+
+</main>
+
+<footer>
+
+<p>&copy; 2019 <!--Henggao Cai -->. <!-- Under no circumstances may the contents of this page be reproduced without the express permission of the author --></p>
+
+</footer>
+
+		</div>
+	</body>
+</html>
